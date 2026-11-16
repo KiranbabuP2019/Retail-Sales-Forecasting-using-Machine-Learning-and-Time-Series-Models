@@ -55,5 +55,5 @@ To forecast weekly sales for different retail store-product combinations using m
 - It can significantly aid retail planning, logistics, and marketing strategies.
 
 ## 🔗 Credits
-Created by Saravanan Palanisamy 
+Created by Kiranbabu
 
