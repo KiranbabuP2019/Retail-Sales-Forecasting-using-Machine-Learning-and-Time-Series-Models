@@ -4,8 +4,8 @@
 To forecast weekly sales for different retail store-product combinations using models like ARIMA, XGBoost, Random Forest, Prophet, and more.
 
 ## 📁 Project Structure
-- `notebooks/Saravanan_P_Assignment.ipynb`: Complete modeling and evaluation code.
-- `outputs/submission_saravanan__P.csv`: Final predictions for the test dataset.
+- `notebooks`: Complete modeling and evaluation code.
+- `outputs`: Final predictions for the test dataset.
 - `outputs/Final_Model_Comparison.pdf`: Summary of model results and business insights.
 
 ## ⚙️ How to Run
